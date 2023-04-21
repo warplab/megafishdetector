@@ -1,7 +1,7 @@
 # Models
 
 ## MegaFishDetector v0 (single class):
-megafishdetector_v0_yolovs.pt (https://drive.google.com/drive/folders/14fA7djYvxchfdqgWnCJABV5JQETjVe0I?usp=sharing)
+megafishdetector_v0_yolov5s.pt (https://drive.google.com/drive/folders/14fA7djYvxchfdqgWnCJABV5JQETjVe0I?usp=sharing)
 megafishdetector_v0_yolov5l.pt (coming soon)
 
 Trained on:
