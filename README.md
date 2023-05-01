@@ -9,7 +9,8 @@ This repo contains links to public datasets, code to parse datasets into a commo
 Example usage (from yolov5 root): python detect.py --imgsz 1280 --conf-thres 0.1  --weights <path to megafishdetector_v0_yolov5m_1280p> --source <path to your video/image folder>
 
 To Cite:
-...coming soon!
+
+...coming soon! (For now, author is Levi Cai)
 
 TODO:
 - Train larger models
