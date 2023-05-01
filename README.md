@@ -1,5 +1,7 @@
 # megafishdetector
 
+Detector for generic "fish" trained on publicly available datasets, currently supporting YOLO-style bounding boxes prediction and training.
+
 Initial experiments to train a generic MegaFishDetector modelled off of the MegaDetector for land animals (https://github.com/microsoft/CameraTraps/blob/main/megadetector.md)
 
 Currently based on YOLOv5 (https://github.com/ultralytics/yolov5).
