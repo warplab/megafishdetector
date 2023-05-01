@@ -9,5 +9,6 @@ This repo contains links to public datasets, code to parse datasets into a commo
 TODO:
 - Train larger models
 - Public AIMSOzFish parser
+- requirements.txt for things like fathomnet environment
 - COCO format support
 

@@ -1,6 +1,13 @@
 ## Lists/links of public fish datasets
-Lila: https://lila.science/otherdatasets#images-marine
-Awesome-fishies: https://github.com/dxyang/awesome-fishies
+- Lila: https://lila.science/otherdatasets#images-marine
+
+- Awesome-fishies: https://github.com/dxyang/awesome-fishies
+
+## Installation requirements
+- python3
+- fathomnet API
+- pandas
+- opencv-python
 
 ## Datasets available here and notes on utils
 VIAME FISHTRACK22
@@ -28,3 +35,6 @@ DeepFish
 
 Brackish Underwater
 1. Unnecessary since yolov5 support single-class training now anyway, can download yoylo dataset directly
+
+## Once downloaded, if training on YOLOv5
+Recommend using the built-in yolovv5/utils/dataloaders.autosplit to split data into subsets (DeepFish already has predefined splits though)
