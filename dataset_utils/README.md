@@ -19,11 +19,12 @@ FATHOMNET
 1. Run download_and_process_fathomnet.py
 
 AIMS OzFish
-1. Code coming soon...
+1. Download raw data
+2. Run process_aims_ozfish_to_yolo.py
 
 NOAA ESTUARY
 1. Download raw data
-2. Run process_noaa_estuary.py
+2. Run process_noaa_estuary_to_yolo.py
 
 NOAA Labelled Fishes In The Wild (LFITW)
 1. Download raw data
