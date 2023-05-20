@@ -13,7 +13,16 @@ Example usage (from yolov5 root): python detect.py --imgsz 1280 --conf-thres 0.1
 To Cite:
 
 [paper](https://arxiv.org/abs/2305.02330)
-
+```
+@misc{yang2023biological,
+      title={Biological Hotspot Mapping in Coral Reefs with Robotic Visual Surveys}, 
+      author={Daniel Yang and Levi Cai and Stewart Jamieson and Yogesh Girdhar},
+      year={2023},
+      eprint={2305.02330},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
 TODO:
 - Train larger models
 - requirements.txt for things like fathomnet environment
