@@ -12,7 +12,7 @@ Example usage (from yolov5 root): python detect.py --imgsz 1280 --conf-thres 0.1
 
 To Cite:
 
-...coming soon! (For now, author is Levi Cai)
+[paper](https://arxiv.org/abs/2305.02330)
 
 TODO:
 - Train larger models
